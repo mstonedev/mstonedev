@@ -16,16 +16,13 @@ Here are some ideas to get you started:
 -->
 
 ## GitHub Stats
+<!--
+[![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mstonedev&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/mstonedev)
+-->
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=mstonedev&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub stats"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mstonedev&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mstonedev&layout=compact&theme=transparent&hide_border=true"
     alt="Most used languages"
-    height="165"
   />
 </p>
