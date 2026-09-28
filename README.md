@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mstonedev&layout=compact&theme=transparent&hide_border=true"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mstonedev&layout=compact&theme=transparent&hide_border=true&hide=HTML%2CCSS"
     alt="Most used languages"
   />
 </p>
