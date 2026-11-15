@@ -20,9 +20,18 @@ Here are some ideas to get you started:
 [![Top Languages](https://github-stats-extended-black-ten.vercel.app/api/top-langs/?username=mstonedev&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/mstonedev)
 -->
 
-<p align="center">
+<p>
   <img
     src="https://github-stats-extended-black-ten.vercel.app/api/top-langs/?username=mstonedev&layout=compact&theme=transparent&hide_border=true&hide=HTML%2CCSS"
     alt="Most used languages"
   />
+</p>
+
+<p>
+  <img
+    src="https://github-stats-extended-black-ten.vercel.app/api/pin?username=mstonedev&repo=mstonedev%2Fpolar-wp-licensing&disable_animations=false&theme=transparent" alt="Repo" />
+</p>
+<p>
+  <img
+    src="https://github-stats-extended-black-ten.vercel.app/api/pin?username=mstonedev&repo=mstonedev%2Fbricks-content-toolkit&disable_animations=false&theme=transparent" alt="Repo" />
 </p>
