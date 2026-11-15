@@ -26,4 +26,4 @@ Here are some ideas to get you started:
     alt="Most used languages"
   />
 </p>
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=mstonedev&layout=compact&langs_count=5&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=mstonedev&layout=compact&langs_count=5&theme=transparent)
+[![GitHub Stats](https://github-stats-extended-black-ten..vercel.app/api/top-langs?username=mstonedev&layout=compact&langs_count=5&theme=transparent)](https://github-stats-extended-black-ten.vercel.app/api/top-langs?username=mstonedev&layout=compact&langs_count=5&theme=transparent)
