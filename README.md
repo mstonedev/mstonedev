@@ -1,3 +1,5 @@
+<img width="1200" height="630" alt="og-image" src="https://github.com/user-attachments/assets/f1737927-3f34-47b0-8afd-4a7ddc7bcf2b" />
+
 ## Hi there 👋
 
 <!--
