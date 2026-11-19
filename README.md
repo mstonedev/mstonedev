@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p>
   <img
-    src="https://github-stats-extended-black-ten.vercel.app/api/top-langs/?username=mstonedev&exclude_repo=michaestone-dev&layout=compact&theme=transparent&hide_border=true&hide=HTML%2CCSS"
+    src="https://github-stats-extended-black-ten.vercel.app/api/top-langs/?username=mstonedev&layout=compact&theme=transparent&hide_border=true&hide=HTML%2CCSS"
     alt="Most used languages"
   />
 </p>
