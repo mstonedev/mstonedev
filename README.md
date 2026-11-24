@@ -41,9 +41,6 @@ I specialize in building clean, maintainable **WordPress plugins, custom Bricks 
 
 ---
 
-![GitHub Stats](https://vercel.app)
-
-
 ### GitHub Stats
 <!--
 [![Top Languages](https://github-stats-extended-black-ten.vercel.app/api/top-langs/?username=mstonedev&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/mstonedev)
