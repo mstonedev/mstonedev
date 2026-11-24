@@ -9,7 +9,7 @@ I specialize in building clean, maintainable **WordPress plugins, custom Bricks 
 
 🌐 **Portfolio:** [michaelstone.dev](https://michaelstone.dev)  
 📄 **Résumé:** [Download PDF](https://michaelstone.dev/michael-stone-resume.pdf)  
-💼 **LinkedIn:** [://linkedin.com](https://www.://linkedin.com/mstonedev)  
+💼 **LinkedIn:** [linkedin.com/in/mstonedev/](https://www.linkedin.com/in/mstonedev/)  
 📫 **Email:** [michael@michaelstone.dev](mailto:michael@michaelstone.dev)
 
 ---
