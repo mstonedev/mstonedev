@@ -16,11 +16,11 @@ I specialize in building clean, maintainable **WordPress plugins, custom Bricks 
 
 ### 🚀 Featured Open-Source & WordPress Projects
 
-* **[`polar-wp-licensing`](https://github.com)** ([Case Study](https://michaelstone.dev/portfolio/polar-wp-licensing)) — Drop-in PHP library for WordPress plugin authors to activate Polar license keys, run daily re-checks with a 14-day grace period, and serve updates strictly to licensed sites.
-* **[`bricks-content-toolkit`](https://github.com)** ([Case Study](https://michaelstone.dev/portfolio/bricks-content-toolkit)) — Custom WordPress functionality and Bricks Builder elements for structured article workflows, built on PHP 8.3 with automated linting and CI.
-* **[`local-mail-wp`](https://github.com)** ([Case Study](https://michaelstone.dev/portfolio/local-mail-wp)) — Zero-config `mu-plugin` that routes all local WordPress and WooCommerce email traffic to Mailpit during development.
-* **[`bricks-panel-scrollbar`](https://github.com)** ([Case Study](https://michaelstone.dev/portfolio/bricks-panel-scrollbar)) — Lightweight Bricks Builder plugin restoring the editor panel scrollbar with customizable width and color settings.
-* **[`herd-wp-new`](https://github.com)** — Automated CLI script to spin up local WordPress environments with Laravel Herd, DBngin, and Query Monitor in seconds.
+* **[`polar-wp-licensing`](https://github.com/polar-wp-licensing)** ([Case Study](https://michaelstone.dev/portfolio/polar-wp-licensing)) — Drop-in PHP library for WordPress plugin authors to activate Polar license keys, run daily re-checks with a 14-day grace period, and serve updates strictly to licensed sites.
+* **[`bricks-content-toolkit`](https://github.com/bricks-content-toolkit)** ([Case Study](https://michaelstone.dev/portfolio/bricks-content-toolkit)) — Custom WordPress functionality and Bricks Builder elements for structured article workflows, built on PHP 8.3 with automated linting and CI.
+* **[`local-mail-wp`](https://github.com/local-mail-wp)** ([Case Study](https://michaelstone.dev/portfolio/local-mail-wp)) — Zero-config `mu-plugin` that routes all local WordPress and WooCommerce email traffic to Mailpit during development.
+* **[`bricks-panel-scrollbar`](https://github.com//bricks-panel-scrollbar)** ([Case Study](https://michaelstone.dev/portfolio/bricks-panel-scrollbar)) — Lightweight Bricks Builder plugin restoring the editor panel scrollbar with customizable width and color settings.
+* **[`herd-wp-new`](https://github.com/herd-wp-new)** — Automated CLI script to spin up local WordPress environments with Laravel Herd, DBngin, and Query Monitor in seconds.
 
 ---
 
